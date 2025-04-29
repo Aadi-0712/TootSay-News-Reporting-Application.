@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "73333758622",
+    "project_id": "tootsay1-14ae9",
+    "storage_bucket": "tootsay1-14ae9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73333758622:android:497a6ff93107225c69f98f",
+        "android_client_info": {
+          "package_name": "com.example.tootsay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6IfLOlkscGcEMU-3-2a6sf8B8MM3D_JM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
