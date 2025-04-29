@@ -39,8 +39,20 @@ TootSay is a real-time news reporting application developed for Android devices.
 
 ---
 
+## 📦 Download APK
+
+You can download the latest version of the TootSay app here:
+
+[⬇️ Download TootSay v1.0.0 APK](https://github.com/yourusername/your-repo-name/releases/download/v1.0.0/app-release.apk)
+
+---
+
 ## 🛠 Project Setup
 
 1. Clone this repository:
 ```bash
 git clone https://github.com/yourusername/TootSay.git
+
+
+
+
