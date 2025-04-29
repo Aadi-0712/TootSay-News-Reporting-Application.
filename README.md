@@ -52,7 +52,3 @@ You can download the latest version of the TootSay app here:
 1. Clone this repository:
 ```bash
 git clone https://github.com/yourusername/TootSay.git
-
-
-
-
